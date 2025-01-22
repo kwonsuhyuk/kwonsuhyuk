@@ -1,9 +1,9 @@
 <div align = "center">
   
-  # Education
+  # 📚 Education
   Hanyang University ERICA (major in software for emerging technology)
 
-  # Skill
+  # ⚡ Skill
   <img  src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">
   <img  src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
    <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
@@ -14,12 +14,12 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
-  # Stats
+  # 📊 Stats
   [![kwonsuhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonsuhyuk&show_icons=true&theme=merko)](https://github.com/kwonsuhyuk/github-readme-stats)
 
 
-  # Contact
-  📞 010-7628-5327
+  # 📞 Contact
+   010-7628-5327
 
   <a href="mailto:supersuhyuk@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
