@@ -17,7 +17,6 @@
   # Stats
   [![kwonsuhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonsuhyuk&show_icons=true&theme=merko)](https://github.com/kwonsuhyuk/github-readme-stats)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonsuhyuk&layout=compact)
 
   # Contact
   📞 010-7628-5327
